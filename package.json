@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pandodb/pandoweb/issues"
   },
-  "homepage": "https://github.com/pandodb/pandoweb#readme"
+  "homepage": "https://github.com/pandodb/pandoweb#readme",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
 }
